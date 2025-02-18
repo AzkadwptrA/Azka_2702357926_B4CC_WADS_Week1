@@ -13,6 +13,7 @@ Microservices break complex applications into smaller, independent services that
 
 Applications are divided into self-contained services, each focused on a specific function, simplifying development and maintenance.
 Each microservice handles a particular business feature, like user authentication or product management, allowing for specialized development.
+
 Services interact via APIs, facilitating standardized information exchange and integration.
 Different technologies can be used for each service, enabling teams to select the best tools for their needs.
 Microservices can be updated independently, reducing risks during changes and enhancing system resilience.
