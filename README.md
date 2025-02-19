@@ -54,3 +54,5 @@ Challenges of using Microservices Architecture:
 # Image Example
 
 ![alt text](micro.png)
+
+![alt text](compare.png)
