@@ -50,3 +50,9 @@ Challenges of using Microservices Architecture:
 - Decomposing an app into microservices adds complexity in development, testing, and deployment.
 - Network communication can lead to higher latency and complicates error handling.
 - Maintaining consistent data across services is challenging, and distributed transactions can be complex.
+
+# Image Example
+
+![alt text](micro.png)
+
+![alt text](compare.png)
